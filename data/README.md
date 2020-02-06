@@ -9,11 +9,11 @@ This point of having a directory like this will be to store all of the data that
 ├── interim
 └── processed
 ```
-<b>Raw:</b>
+<b>Raw:</b><br />
 Contains the raw data files for a project.
-<b>External:</b>
+<b>External:</b><br />
 Contain data sets that are from external sources.
-<b>Interim:</b>
+<b>Interim:</b><br />
 Contain files that are for storing the interim files created during the preprocessing pipeline.
-<b>Processed:</b>
+<b>Processed:</b><br />
 Contains the final processed files that are used for analysis and building models.
