@@ -8,5 +8,5 @@ In Python, objects can either be [pickled]([https://docs.python.org/3/library/pi
 
 Below are links to these features in several of Machine Learning packages in Python: 
 * [keras](https://keras.io/getting-started/faq/#how-can-i-save-a-keras-model)
-* [TensorFlow](https://www.tensorflow.org/guide/saved_model](https://www.tensorflow.org/guide/saved_model)
-* [scikit-learn](https://scikit-learn.org/stable/modules/model_persistence.html](https://scikit-learn.org/stable/modules/model_persistence.html)
+* [TensorFlow](https://www.tensorflow.org/guide/saved_model)
+* [scikit-learn](https://scikit-learn.org/stable/modules/model_persistence.html)
