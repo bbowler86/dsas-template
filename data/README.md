@@ -9,7 +9,7 @@ This point of having a directory like this will be to store all of the data that
 ├── interim
 └── processed
 ```
-<b>Raw:</b>
+<b>Raw:</b><br />
 Contains the raw data files for a project.
 
 <b>External:</b><br />
